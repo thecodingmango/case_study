@@ -6,7 +6,7 @@ In this Case study, I am tasked to analyze data from smart devices, and look for
   
 Contains all the files used in the case study.  
 
-[The Full Analysis is Available Here]()  
+[The Full Case Study is Available Here]()  
 
 ## Data Folder  
 Contains all the csv files for the analysis  
